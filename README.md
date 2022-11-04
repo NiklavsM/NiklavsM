@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nik
-- 👀 I’m interested in Full Stack Developemnt (most recently React + Java Spring + AWS)
+- 👀 I’m interested in Web Aplication development (most recent stack: React + Java Spring + AWS)
 - 📫 How to reach me https://www.linkedin.com/in/niklavs-meiers-654747103/ or https://www.instagram.com/niklavsmeiers/
 
 <!---
