@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Nik
-- 👀 I’m interested in Web Aplication development (most recent stack: React + Java Spring + AWS)
+- 👋 Hi, I’m Nik!
+- 👀 I’m interested in Financial Software engineering (most recent stack: React + Java Spring + AWS + Kafka)
 - 📫 How to reach me:
   * https://www.linkedin.com/in/niklavs-meiers-654747103/ 
   * https://www.instagram.com/niklavsmeiers/
