@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Nik!
-- 👀 I’m interested in Financial Software Engineering (most recent stack: React + Java Spring + AWS + Kafka)
-- 📫 How to reach me:
+- 📈 I quit my 6-figure software engineering job
+- 💻 Now I’m the software engineer of the #1 rejection app
+- 🌎 Currently building @rejecto.io👇
   * https://www.linkedin.com/in/niklavs-meiers-654747103/ 
   * https://www.instagram.com/niklavsmeiers/
 
