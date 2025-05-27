@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nik!
+- 👋 Hi, I’m Niklavs!
 - 📈 I quit my 6-figure software engineering job
 - 💻 Now I’m the software engineer of the #1 rejection app
 - 🌎 Currently building @rejecto.io👇
