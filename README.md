@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Niklavs!
 - 📈 I quit my 6-figure software engineering job
 - 💻 Now I’m the software engineer of the #1 rejection app
-- 🌎 Currently building @rejecto.io👇
-  * https://rejecto.io/
+- 🌎 Currently building @alora👇
+  * https://alora.love/
   * https://www.instagram.com/niklavscodes/
   * https://www.linkedin.com/in/niklavs-meiers-654747103/ 
 
