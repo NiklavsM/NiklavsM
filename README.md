@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Niklavs!
 - 📈 I quit my 6-figure software engineering job
-- 💻 Now I’m the software engineer of the #1 rejection app
+- 💻 Now I’m the software engineer behind the #1 women’s relationship confidence app
 - 🌎 Currently building @alora👇
   * https://alora.love/
   * https://www.instagram.com/niklavscodes/
